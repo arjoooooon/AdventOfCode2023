@@ -1,2 +1,2 @@
-# AdventOfCode2024
+# AdventOfCode2023
 My advent of code solutions!
